@@ -1,0 +1,9 @@
+{
+  "name": "medical-braiding-platform",
+  "version": "1.0.0",
+  "description": "医疗编织工艺知识库",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
